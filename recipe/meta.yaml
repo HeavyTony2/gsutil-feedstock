@@ -25,7 +25,7 @@ requirements:
   run:
     - google-auth-httplib2 >=0.2.0
     - google-auth ==2.39.0
-    - python >={{ python_min }},<3.13
+    - python >={{ python_min }},=<3.13
     - argcomplete >=3.6.2
     - crcmod >=1.7
     - fasteners >=0.14.1
